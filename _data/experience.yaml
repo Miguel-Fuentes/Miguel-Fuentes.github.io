@@ -1,0 +1,19 @@
+experiences:
+- place: "University of Massachusetts Amherst"
+  time: "2020 - now"
+  title: "Research Assistant"
+  subtitle: "Advised by Prof. Daniel Sheldon"
+  category: "school"
+
+- place: "IPAM, UCLA"
+  time: "June 2019 - August 2019"
+  title: "RIPS Intern"
+  subtitle: "Partnered with Google Ads Data Hub"
+  category: "work"
+
+
+- place: "University of Delaware"
+  time: "2016 - 2020"
+  title: "Bachelor's in Mathematics and Computer Science"
+  subtitle: "Summer Research with Chad Giusti"
+  category: "school"

@@ -1,0 +1,29 @@
+papers:
+  - title: "Efficient and Private Marginal Reconstruction with Local Non-Negativity"
+    authors: "Brett Mullins, <u>Miguel Fuentes</u>, Yingtai Xiao, Daniel Kifer, Cameron Musco, Daniel Sheldon."
+    venue: "Advances in Neural Information Processing Systems (NeurIPS) 37 (2024)"
+    paper_pdf: https://arxiv.org/abs/2410.01091
+    dp: y
+  
+  - title: "Joint Selection: Adaptively Incorporating Public Information for Private Synthetic Data"
+    authors: "<u>Miguel Fuentes</u>, Brett Mullins, Ryan McKenna, Gerome Miklau, Daniel Sheldon."
+    venue: "Proceedings of The 27th International Conference on Artificial Intelligence and Statistics (AISTATS) 2024, (<b>Oral</b>)"
+    paper_pdf: https://proceedings.mlr.press/v238/fuentes24a.html
+    dp: y
+
+  - title: "BirdFlow: Learning seasonal bird movements from eBird data"
+    authors: "<u>Miguel Fuentes</u>, Benjamin Van Doren, Daniel Fink, Daniel Sheldon"
+    venue: "Methods in Ecology and Evolution 14.3 (2023)"
+    paper_pdf: https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14052
+    sci: y
+
+  - title: "Lower survival of hybrid grosbeaks, but not towhees, suggests a molt divide disfavors hybrids"
+    authors: "Vanya G. Rohwer, Samantha J. Hagler, Benjamin Van Doren, <u>Miguel Fuentes</u>, Shawn M. Billerman"
+    venue: "Evolution 77.9 (2023)"
+    paper_pdf: https://academic.oup.com/evolut/article/77/9/1956/7204859
+    sci: y
+
+  - title: "Modeling Bird Migration by Disaggregating Population Level Observations."
+    authors: "<u>Miguel Fuentes</u>, Benjamin Van Doren, Daniel Sheldon"
+    venue: "ICML 2021 Tackling Climate Change with Machine Learning Workshop (2021)"
+    sci: y
