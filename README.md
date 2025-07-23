@@ -1,12 +1,5 @@
 # My website (based on mohit yadav's template based on martin saveski's template)
 
-## Things to change
-baseurl in _config.yml
-files in _data
-index.hml (bio, google scholar link)
-categories (selected --> ML / NLP / Bio)
-layouts (default.html)
-
 ## Updates guide
 Change one of the files in `_data`, unless you are changing the look of the website.
 
